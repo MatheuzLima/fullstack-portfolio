@@ -1,0 +1,9 @@
+node_modules
+dist
+.DS_Store
+*.tar.gz
+.env.local
+*.md
+*.txt
+*.sh
+!README.md
