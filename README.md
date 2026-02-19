@@ -6,7 +6,7 @@ Este é um site de portfólio full-stack construído com React, TypeScript e Vit
 
 *   **Aplicação de Página Única (SPA):** Uma experiência de usuário suave e contínua com um layout de página única.
 *   **Arquitetura Baseada em Componentes:** Construído com uma biblioteca de componentes modulares e reutilizáveis.
-*   **Conteúdo Orientado a Dados:** Atualize facilmente o conteúdo do seu portfólio editando um único arquivo de dados (`client/src/data/portfolio.ts`).
+*   **Conteúdo Orientado a Dados:** Atualize facilmente o conteúdo do portfólio editando um único arquivo de dados (`client/src/data/portfolio.ts`).
 *   **Formulário de Contato:** Um formulário de contato funcional com validação.
 *   **Otimizado para Performance:** O projeto foi otimizado para performance com divisão de código (code splitting), carregamento lento (lazy loading) e otimização de fontes.
 *   **Design Responsivo:** O site foi projetado para ter uma ótima aparência em todos os dispositivos.
@@ -38,11 +38,11 @@ Este é um site de portfólio full-stack construído com React, TypeScript e Vit
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/portfolio-showcase.git
+    git clone https://github.com/seu-usuario/fullstack-portfolio.git
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd portfolio-showcase
+    cd fullstack-portfolio
     ```
 3.  Instale as dependências:
     ```bash
@@ -88,8 +88,7 @@ O projeto foi otimizado para performance usando as seguintes técnicas:
 *   **Lazy Loading:** Os componentes React e as imagens são carregados lentamente para reduzir o tempo de carregamento inicial.
 *   **Otimização de Fontes:** O número de fontes foi reduzido ao mínimo e elas são carregadas com `display=swap`.
 
-Para mais detalhes sobre as otimizações de performance, consulte os arquivos `OTIMIZACOES.md` e `performance.md`.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Livre para praticar e usar
